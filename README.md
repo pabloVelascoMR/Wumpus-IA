@@ -36,6 +36,7 @@ En este mundo:
 - 💨 **Brisas y hedor** sirven como señales de peligro
 
 Todo ocurre en un tablero cuadriculado donde el agente debe planificar cada movimiento.
+<img width="707" height="706" alt="image" src="https://github.com/user-attachments/assets/2a2eeb2c-8031-463f-96f4-ba5cd3b6d1c1" />
 
 ---
 
@@ -59,7 +60,10 @@ Las minas **no son estáticas**: se **mueven automáticamente** cada vez que el 
 ### El agente muere si:
 - ❌ cae dentro de una mina  
 - ❌ las minas lo rodean sin salida  
-- ❌ una mina lo encierra junto al Wumpus  
+- ❌ una mina lo encierra junto al Wumpus
+
+<img width="738" height="705" alt="image" src="https://github.com/user-attachments/assets/78af6244-6299-47df-a7b8-3b6d2fb8e096" />
+
 
 ---
 
@@ -74,6 +78,8 @@ El forajido puede disparar **una vez** cuando ha realizado **3 movimientos**.
 
 ### Victoria instantánea:
 Si el disparo **impacta al Wumpus**, el agente **gana automáticamente**, sin necesidad de llegar al oro.
+
+<img width="727" height="706" alt="image" src="https://github.com/user-attachments/assets/d21179be-1b90-4709-a6b6-ef4da92a3e9b" />
 
 ---
 
