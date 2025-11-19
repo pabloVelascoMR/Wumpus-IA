@@ -170,7 +170,7 @@ pip install notebook
 **Descarga el repositorio desde GitHub** (botón **Code → Download ZIP**, o usando `git clone`):
 
 
-git clone https://github.com/tuusuario/turepositorio.git
+git clone https://github.com/pabloVelascoMR/Wumpus-IA
 Asegúrate de que las carpetas imagenes y checkpoints están colocadas junto al notebook.
 
 Abre el notebook:
